@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Dns
-platforms: java
-author: yaohaizh
+extensions:
+- services: Dns
+- platforms: java
 ---
 
-## Getting Started with Dns - Manage Dns - in Java ##
+# Getting Started with Dns - Manage Dns - in Java #
 
 
   Azure DNS sample for managing DNS zones.
