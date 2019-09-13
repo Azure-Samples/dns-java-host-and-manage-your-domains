@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Dns
-- platforms: java
+description: "Getting Started with Dns - Manage Dns - in Java"
+urlFragment: dns-java-host-and-manage-your-domains
 ---
 
 # Getting Started with Dns - Manage Dns - in Java #
