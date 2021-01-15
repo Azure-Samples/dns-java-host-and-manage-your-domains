@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Dns
-  platforms: java
+- services: Dns
+- platforms: java
 ---
 
 # Getting Started with Dns - Manage Dns - in Java #
